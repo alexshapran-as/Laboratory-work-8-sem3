@@ -1,1 +1,3 @@
-# Laboratory-work-8-sem3
+# Лабораторная работа 8: Connection logger
+
+ИУ8 - 34 Шапран Алексей
